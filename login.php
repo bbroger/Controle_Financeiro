@@ -98,21 +98,3 @@ if (isset($_SESSION['email']) && isset($_SESSION['id'])){
            <?php } ?>
     </body>
 </html>
-
-
-
-
-
-
-
-
-<!--
-chave
-AIzaSyAXsgLFZ4Yeig1iUF2sK8VlAz7MzNmZInE
-
-id cliente
-36062110666-7v8k8rh5pn3t1cramr7cdqun01h119vl.apps.googleusercontent.com
-
-chave secreta 
-TVxeK1QjHKEkxXsNk6KgVSCU
--->
