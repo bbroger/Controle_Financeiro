@@ -1,0 +1,29 @@
+#fofm2{
+  color: turquoise;
+}
+form select#fofm2{
+  width: 60%;
+  background-color: black;
+  height: 30px;
+  font-size: 20px;
+  margin-left: 20%;
+}
+form input#fofm2{
+  
+  width: 80%;
+  border: none;
+  margin-left: 10%;
+  border-bottom: 1px solid white;
+}
+a#fofm2{
+  border: 1px solid black;
+  width: 50px;
+  padding: 2px;
+  margin-left: 20%;
+}
+form input#fofm2sub{
+  width: 40%;
+  background-color: turquoise;
+  color: white;
+  margin-left: 30%;
+}

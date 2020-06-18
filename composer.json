@@ -1,0 +1,28 @@
+{
+    "name": "pacote/www",
+    "description": "teste simples",
+    "authors": [
+        {
+            "name": "samuel",
+            "email": "sa@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.2.8",
+        "softpay/parcelamento": "dev-master",
+        "egulias/email-validator": "^2.1@dev",
+        "sendgrid/sendgrid": "~7"
+    }, 
+    
+          
+       
+     
+    "autoload": {
+        "psr-4": {
+            "Cliente\\":"classes/",
+            "Bdados\\":"classes"
+        }
+    }
+
+}

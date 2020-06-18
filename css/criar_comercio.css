@@ -1,0 +1,26 @@
+label{
+  font-size: 20px;
+  text-align: center;
+}
+#central form{
+  text-align: center;
+  color: turquoise;
+}
+#ncomercio input{
+  width: 80%;
+  background-color: black;
+  height: 35px;
+  color: turquoise;
+  font-size: 20px;
+  text-align: center;
+}
+form #sub{
+  width: 40%;
+  background-color: turquoise;
+  color: white;
+}
+#central h3{
+  text-align: center;
+  font-size: 40px;
+  color: white;
+}

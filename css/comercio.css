@@ -1,0 +1,37 @@
+table{
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+  background-color: gray;
+}
+td#nome{
+  width: 50%;
+}
+td#class{
+  width: 30%;
+  text-align: center;
+}
+td#opcoes{
+  width: 20%;
+  text-align: center;
+}
+tr#branca{
+  background-color: white;
+}
+tr#cinza{
+  background-color: gray;
+}
+h3{
+  text-align: center;
+  color: turquoise;
+}
+div#tabela{
+  max-height: 400px;
+  overflow: auto;
+}
+p#sucesso{
+  color: turquoise;
+}
+p#erro{
+  color: red;
+}
